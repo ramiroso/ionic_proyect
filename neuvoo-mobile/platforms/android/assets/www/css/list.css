@@ -1,0 +1,210 @@
+.opcion {border-color: #ddd;background-color: #EBEBEB;color: #444; position: relative;z-index: 2;display: block; margin: -1px; padding: 8px;font-size: 16px;}
+.menu { background-color: #EBEBEB;}
+.item2 {border-color: #ddd; background-color: #fff; color: #444; position: relative; z-index: 2; display: block; padding: 16px; border-width: 1px; border-style: solid; font-size: 16px;  overflow: hidden;text-overflow: ellipsis; white-space: nowrap;height: 108px;}
+.item2 p {color: #666;font-size: 14px;margin-bottom: 2px; overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+.item2 p:last-child {margin-bottom: 0; }
+.item.item-divider .badge {top: 8px; }
+.nothing{  margin: 0px;  padding: 0px;}
+/** Marion **/
+img.icon-actions { margin: 0px 12px;}
+.row.actions { line-height: 100px;  vertical-align: middle;  position: relative;  top: 32px;}
+.more {  position: absolute;  right: 0px;  top: 4px;}
+.more img{  height: 13px;}
+.button.button-calm { border-color: #11C1F3;  background-color: #11c1f3;  color: #fff; }
+p.results.ng-binding {  position: relative;  top: 6px;}
+.row{padding: 0px;}
+.j-info div { display: inline-block; max-width: 94%; overflow: hidden; text-overflow: ellipsis;}
+.j-location {  display: inline-block;  color: #444;}
+.j-info * {font-size: 13px;}
+.job-title {  font-size: 14px;  font-weight: 600;  text-overflow: ellipsis;  display: block;  width: 94%;  overflow: hidden;}
+.j-info {  line-height: 16px;}
+.j-snippet {color: #545454; text-align: left; text-overflow: initial !important; white-space: normal !important; overflow: hidden !important; height: 54px; padding-left: 57px; width: 100%; line-height: 18px; font-size: 13px; margin-top: 3px; text-align: justify;}
+.j-logo {  width: 49px;  position: absolute;  left: 0px;  top: 44px;  border-radius: 3px;}
+.card, .list-inset {  /* overflow: hidden; */  margin: 7px 5px;  border-radius: 2px;  background-color: #fff;}
+.l {margin-top: 10px;}
+.j-box{margin-top:5px !important;border: 1px solid rgba(80, 80, 80, .2);}
+.currentLocation{background: #E07D4F !important;position: absolute;top: 0px;right: 0px;min-height: 0px;height: 100%;border-radius: 0px; z-index: 100;border: 1px solid rgb(191, 191, 191) !important;border-left: none !important;}
+.item2.light.row.j-box {}
+.j-container{position: relative;margin: 6px;margin-right: 10px;}
+.pre-footer{height: 60px;}
+.bar {padding: 5px 0px;}
+.item-input {padding: 9px;box-shadow: 0px 0px 5px #B8B8B8;border: 1px solid #BFBFBF;}
+.flag-listing {margin-right: 10px;}
+.scroll-content { /* margin-bottom: 120px; */ scroll-behavior: smooth;}
+.j-info {overflow: hidden;position: relative;top: 0px;width: 94%;}
+.listing{position: relative;margin-top: 15px;}
+.neuvoo {background-color: #00b1f1;height: 56px;}
+.bar.neuvoo img {margin-top: 14px; width: 91px; height: 16px;margin-left: 5px;}
+.bar-header.buckets{margin-top: 45px; }
+.bar-subheader * {font-size:13px !important;}
+.buckets button{line-height: 18px !important; text-align: left; height: 100%; width: 100%; text-align: center;}
+.sl {display: block; font-size:11px !important}
+.view-listing{background-color: #e5e5e5;top: 100px;}
+.list-actions{position: absolute;left: 50%;top: -7px;width: 50%;}
+.j-bbox{text-align: right;  position: absolute;  width: 100%;  top: 50%;margin-top: -13px;}
+.box-job{position: relative;}
+.results{color: #6B6B6B;font-size: 14px;width: 100%;display: inline-block;box-sizing: border-box;text-align: right;margin-bottom: 15px;margin-top: 10px;}
+.list.list-inset{ background-color: #e5e5e5;}
+.j-empname span {color:#D46500;}
+.list:last-child {margin-bottom: 10px;}
+.col.right{text-align: right;}
+.col{padding: 0px;}
+.search-buttom {margin-top: 10px;}
+.bar-subheader{background: #EBEBEB;box-shadow: 0px 2px 7px -2px rgba(194, 191, 191, 1);padding: 0px 8px;top: 56px;}
+.bar-subheader .button.button-stable.button-clear {color:#404040 !important; font-weight: 400;line-height: 17px !important;height: 44px;}
+.search-buttom button{font-size: 14px; width: 100%;}
+.buttons{position: absolute;  top: 0px;  right: -5px;  bottom: 0px;}
+.more button { padding: 0px 8px;    width: 40px;    text-align: right;    height: 25px;}
+.search-buttom button { height: 40px; padding: 0px 15px; box-shadow: 0px 0px 5px #B8B8B8}
+.f32{width: 32px;}
+.popover-wrapper .item {  font-size: 12px;  padding: 14px;   border-color: #E7E7E7 !important;  background-color: #E7E7E7 !important;  color: #4d4d4d !important;}
+.popover { background-color: #E7E7E7 !important; margin-top: -5px !important;}
+button.button-clear.button-medium.ion-android-more-vertical {  padding: 3px 10px 15px 25px;   font-size: 18px; color: #404040;  margin-top: -8px;  margin-right: -8px;}
+input#job, input#location {  padding: 0px;  margin: 0px;  height: auto;  line-height: 26px;}
+input#location{margin-right: 46px;}
+.card, .list-inset {overflow: visible;}
+.list-inset{margin-top: 10px;}
+.item{padding: 6px;}
+.popover-backdrop{z-index: 20;}
+.popover-wrapper  .popover .overflow-scroll {overflow-y: hidden;}
+.currentLocation.button .icon:before, .button.icon:before, .button.icon-left:before, .button.icon-right:before {
+    line-height: 36px; ;
+
+}
+.currentLocation .ion-pinpoint {color:white;}
+/* Icon 1 */
+#nav-icon4 {
+  width: 30px;
+  height: 23px;
+  position: relative;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: .4s ease-in-out;
+  -moz-transition: .4s ease-in-out;
+  -o-transition: .4s ease-in-out;
+  transition: .4s ease-in-out;
+  cursor: pointer;
+}
+
+#nav-icon4 span {
+  display: block;
+  position: absolute;
+  height: 4px;
+  width: 100%;
+  background: #FCFCFC;
+  border-radius: 1px;
+  opacity: 1;
+  left: 0;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: .25s ease-in-out;
+  -moz-transition: .25s ease-in-out;
+  -o-transition: .25s ease-in-out;
+  transition: .25s ease-in-out;
+}
+
+
+#nav-icon4 span:nth-child(1) {
+  top: 0px;
+  -webkit-transform-origin: left center;
+  -moz-transform-origin: left center;
+  -o-transform-origin: left center;
+  transform-origin: left center;
+}
+
+#nav-icon4 span:nth-child(2) {
+  top: 9px;
+  -webkit-transform-origin: left center;
+  -moz-transform-origin: left center;
+  -o-transform-origin: left center;
+  transform-origin: left center;
+}
+
+#nav-icon4 span:nth-child(3) {
+  top: 18px;
+  -webkit-transform-origin: left center;
+  -moz-transform-origin: left center;
+  -o-transform-origin: left center;
+  transform-origin: left center;
+}
+
+#nav-icon4.open span:nth-child(1) {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+  top: -3px;
+  left: 8px;
+}
+
+#nav-icon4.open span:nth-child(2) {
+  width: 0%;
+  opacity: 0;
+}
+
+#nav-icon4.open span:nth-child(3) {
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  top: 18px;
+  left: 8px;
+}
+
+.scrollToTop{
+  height: 50px;
+  width: 50px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  border-radius: 50%;
+  z-index: 100;
+  min-width: 0 !important;
+  min-height: 0 !important;
+  box-shadow: 0px 2px 5px 2px rgb(173, 173, 173);
+  background-color: rgb(212, 101, 0) !Important;
+  border: none !important;
+}
+.favorite-message {
+    /* position: fixed; */
+    box-shadow: 0px 2px 5px 2px rgb(173, 173, 173);
+    background-color: rgb(212, 101, 0) !Important;
+    color: white;
+    width: 80%;
+    padding: 10px 0px;
+    text-align: center;
+    border-radius: 20px;
+    top: 10px;
+    z-index: 200;
+    margin: 0 auto;
+}
+.ext-fav {
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    bottom: 25px;
+    z-index: 200;
+}
+.loading {
+  background-color: rgb(17, 193, 243) !important;
+  border-radius: 50% !important;
+  height: 50px !important;
+  width: 50px !important;
+  padding: 0px !important;
+  padding-top: 11px !important;
+  box-shadow: 0px 2px 5px 2px rgb(173, 173, 173);
+}
+.loading .spinner { stroke:white;}
+.bar.bar-subheader.buckets div {
+  width: 25%;
+  max-width: 200px;
+  display: inline-block;
+}
+.bar.bar-subheader.buckets div.selected {
+  border-bottom: 2px solid rgb(0, 177, 241);
+}
+.backdrop{background: transparent;}

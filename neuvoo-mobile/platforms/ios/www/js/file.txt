@@ -1,0 +1,15 @@
+{
+      "id":"fr",
+      "chooseCountry":"CHOISISSEZ UN PAYS",
+      "chooseLanguaje":"CHOISISSEZ UNE LANGUE",
+      "results":"résultats",
+      "saveSearch":"SAUVEGARDER LA RECHERCHE",
+      "preference":"Préférence",
+      "changeCountry":"Changer de pays",
+      "changeLanguage":"Changer de langue",
+      "notifications":"Notifications",
+      "privacyAndTerm":"Confidentialité et durée",
+      "aboutNeuvoo":"À propos de Neuvoo",
+      "job": "Mots-clés, entreprise...",
+      "location": "Lieu"
+}
