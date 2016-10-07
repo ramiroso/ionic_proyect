@@ -1,0 +1,17 @@
+/* Css countries.html  */
+.flag { margin-right: 16px;}
+/*.f32{line-height: 28px;}*/
+.f32 img {vertical-align: middle;}
+.flag.deprecated { color: silver; }
+.flag.island { color: navy; }
+.countryName {
+	padding-left: 20px;
+	padding-top:10px
+}
+.splash {
+ width: 80%;
+ max-width: 350px;
+ position: relative;
+ top:50%;
+ margin-top: -100px;
+}

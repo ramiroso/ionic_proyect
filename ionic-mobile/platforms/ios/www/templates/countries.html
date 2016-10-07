@@ -1,0 +1,31 @@
+<div class="bar bar-header" >
+  <strong>
+    <font size="2">
+      {{dictionary.chooseCountry}}
+    </font>
+  </strong>
+</div>
+<ion-view view-title="countries">
+  <ion-content class="bar-stable" style="-webkit-overflow-scrolling: touch;" >
+    <div class="list" >
+      <div id="{{country.domain}}" class="item" 
+        ng-repeat="country in countries" 
+          style="{{colorCountry[$index]}}" 
+          ng-click="languages(country.domain,$index)">
+           <div class="row">
+                  <div>
+                      <div class="f32">
+                        <div class="flag {{country.country}}">
+                        </div>
+                      </div>
+                  </div>
+                  <div>
+                    {{country.country_name}}
+                  </div>
+            </div>
+      </div>
+    </div>
+    <br /><br /><br /><br />
+    <br /><br /><br /><br />
+  </ion-content>
+</ion-view>

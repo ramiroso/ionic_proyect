@@ -1,0 +1,15 @@
+div.item:hover {  background-color: rgba(255, 255, 255, 0);}
+div.item:active {    background-color: rgba(255, 255, 255, 0);}
+.bar.bar-header{background-color: #F2F2F2; padding: 0px; padding-left: 16px;}
+.bar font.ng-binding {  line-height: 57px;}
+ion-view.pane {margin-top: 55px;}
+.row { padding: 5px 16px;}
+.col{padding: 0px;}
+.ng-binding{line-height: 38px;}
+.bar .button {min-height: 57px !important; margin-right: 10px;}
+.list .item {height: 50px;margin-left: 0px;margin-right: 0px;padding-top:4px;width: 100%;background-color: #FFFFFF; padding: 0px;}
+.bar .button.button-clear .icon:before, .bar .button.button-clear.icon:before, .bar .button.button-clear.icon-left:before, .bar .button.button-clear.icon-right:before {line-height: 40px;}
+.bar .title + .button:last-child,
+.bar .title + .button:last-child, .bar > .button + .button:last-child, .bar > .button.pull-right, .bar .buttons.pull-right, .bar .title + .buttons {
+    position: static !important;
+}
